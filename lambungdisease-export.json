@@ -1,0 +1,635 @@
+{
+  "Users" : {
+    "33JBnmpTshSxpmUhAIXDMLfnpkK2" : {
+      "cover" : "https://firebasestorage.googleapis.com/v0/b/lambungdisease.appspot.com/o/Users_Profile_Cover_Imgs%2Fcover_33JBnmpTshSxpmUhAIXDMLfnpkK2?alt=media&token=18265f82-e21a-4c42-8614-940bcfd40a7b",
+      "email" : "test@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lambungdisease.appspot.com/o/Users_Profile_Cover_Imgs%2Fimage_33JBnmpTshSxpmUhAIXDMLfnpkK2?alt=media&token=981e8e40-a271-4f4d-87ac-4f6dde2e7951",
+      "name" : "Testing",
+      "phone" : "083869635380",
+      "uid" : "33JBnmpTshSxpmUhAIXDMLfnpkK2"
+    },
+    "BPcKv4dgSad8bdFdxmdTJk7nDP42" : {
+      "cover" : "https://firebasestorage.googleapis.com/v0/b/lambungdisease.appspot.com/o/Users_Profile_Cover_Imgs%2Fcover_BPcKv4dgSad8bdFdxmdTJk7nDP42?alt=media&token=4ad483a4-6c9a-4d7d-a935-de026a337ef4",
+      "email" : "show@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lambungdisease.appspot.com/o/Users_Profile_Cover_Imgs%2Fimage_BPcKv4dgSad8bdFdxmdTJk7nDP42?alt=media&token=6547442a-55d0-4826-9199-442bdf0ecdc6",
+      "name" : "schwarzer",
+      "phone" : "08383733212",
+      "uid" : "BPcKv4dgSad8bdFdxmdTJk7nDP42"
+    },
+    "He3LqBtFDFRk6GH0wH30TcTeptH3" : {
+      "cover" : "",
+      "email" : "awweu29@gmail.com",
+      "image" : "",
+      "name" : "Rafli",
+      "phone" : "08***********",
+      "uid" : "He3LqBtFDFRk6GH0wH30TcTeptH3"
+    },
+    "JCGTdGinhHN857isyxIVctOQkko1" : {
+      "cover" : "",
+      "email" : "avb@gmail.com",
+      "image" : "",
+      "name" : "",
+      "uid" : "JCGTdGinhHN857isyxIVctOQkko1"
+    },
+    "S4909K4PIeXTdlbLpKVKqZewxXr2" : {
+      "cover" : "",
+      "email" : "j@gmail.com",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lambungdisease.appspot.com/o/Users_Profile_Cover_Imgs%2Fimage_S4909K4PIeXTdlbLpKVKqZewxXr2?alt=media&token=95c4b123-4b50-499d-a3c5-fb6aee401609",
+      "name" : "rafli",
+      "phone" : "08534695885",
+      "uid" : "S4909K4PIeXTdlbLpKVKqZewxXr2"
+    },
+    "b3B1Hfy803Rdj3BBwZPHCXbnGmk2" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lambungdisease.appspot.com/o/Users_Profile_Cover_Imgs%2Fimage_b3B1Hfy803Rdj3BBwZPHCXbnGmk2?alt=media&token=5f332b50-eff7-4535-96de-ae31debc7d3d",
+      "name" : "adzka",
+      "phone" : "808080"
+    },
+    "cJfFOwo8RyP4Nxu3MoguU0DvCFl2" : {
+      "cover" : "",
+      "email" : "17523150@students.uii.ac.id",
+      "image" : "",
+      "name" : "",
+      "uid" : "cJfFOwo8RyP4Nxu3MoguU0DvCFl2"
+    },
+    "gY7qPjI3pdShW2OtEA9q4IAuheL2" : {
+      "cover" : "",
+      "email" : "lilgrawl@gmail.com",
+      "image" : "",
+      "name" : "",
+      "uid" : "gY7qPjI3pdShW2OtEA9q4IAuheL2"
+    },
+    "pi8CFgHphjWgkqtAvOGh0S1YdCE2" : {
+      "cover" : "",
+      "email" : "dantysusanto02@gmail.com",
+      "image" : "",
+      "name" : "",
+      "uid" : "pi8CFgHphjWgkqtAvOGh0S1YdCE2"
+    },
+    "ptx0MCZKMxW2oUbRm62Ju4q9ecc2" : {
+      "cover" : "",
+      "email" : "ww@ww.com",
+      "image" : "",
+      "name" : "rafli",
+      "phone" : "08xxxxxx",
+      "uid" : "ptx0MCZKMxW2oUbRm62Ju4q9ecc2"
+    },
+    "uGmMEjYMHbR0CJxEFVKoKfsz4Nk2" : {
+      "cover" : "",
+      "email" : "mhmmdirfan26@gmail.com",
+      "image" : "",
+      "name" : "fakhri",
+      "phone" : "777",
+      "uid" : "uGmMEjYMHbR0CJxEFVKoKfsz4Nk2"
+    },
+    "wy9SjaIVBvTSyDZzSlkGr76Zsye2" : {
+      "cover" : "",
+      "email" : "erwer@gmail.com",
+      "image" : "",
+      "name" : "",
+      "uid" : "wy9SjaIVBvTSyDZzSlkGr76Zsye2"
+    }
+  },
+  "biodata" : {
+    "-LwEPtk8K7nYCoYtJJ5_" : {
+      "alamat" : "r",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "4laq",
+      "noTelp" : "5",
+      "pekerjaan" : "r",
+      "tanggalLahir" : "2"
+    },
+    "-LwEa9kEhaF6QYyJIzuO" : {
+      "alamat" : "we",
+      "email" : "we",
+      "gender" : "Laki-laki",
+      "nama" : "we",
+      "noTelp" : "93",
+      "pekerjaan" : "we",
+      "tanggalLahir" : "12/16/19"
+    },
+    "-LwGg_Pl-D9TtbnKS0UL" : {
+      "alamat" : "Mana aja",
+      "email" : "show@gmail.com",
+      "gender" : "Perempuan",
+      "nama" : "KABUR",
+      "noTelp" : "777",
+      "pekerjaan" : "apa aja",
+      "tanggalLahir" : "12/19/19"
+    },
+    "-LwGgn3uTZEGG818xYcC" : {
+      "alamat" : "j",
+      "email" : "h",
+      "gender" : "Laki-laki",
+      "nama" : "h",
+      "noTelp" : "9",
+      "pekerjaan" : "h",
+      "tanggalLahir" : "6"
+    },
+    "-LwGhPyqmOGJ2mx3rco-" : {
+      "alamat" : "hyatt",
+      "email" : "show@gmail.com",
+      "gender" : "Perempuan",
+      "nama" : "KABUR",
+      "noTelp" : "777",
+      "pekerjaan" : "apa aja",
+      "tanggalLahir" : "12/17/19"
+    },
+    "-LwGmx65ueB4q9YvvHgD" : {
+      "alamat" : "nama",
+      "email" : "show@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "nama",
+      "noTelp" : "8080",
+      "pekerjaan" : "nama",
+      "tanggalLahir" : "12/01/19"
+    },
+    "-LwGnlXSzbF8k9L7J8rI" : {
+      "alamat" : "key",
+      "email" : "show@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "kye",
+      "noTelp" : "08",
+      "pekerjaan" : "key",
+      "tanggalLahir" : "08"
+    },
+    "-LwGpEm21Big4T_idXeu" : {
+      "alamat" : "g",
+      "email" : "j.gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpGiUya-wW6JFycnL" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpH29cE4Wm5iEdLcg" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHF8KHAg8RA0ow37" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHOkMNpbEu5foL8k" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHQya0NBe5ihib_y" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHTJC5pXBJTI0hrl" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHVX80_xaKIbrUFh" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHXaPh67cjPo9EOz" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHZva6ek_roNqJyp" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHb0Oqc8CwymWP4R" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHdM2a0KAG6ObnjE" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHffqryBywSbQPFz" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHi4UQWBEVT3ugX0" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHkPkmFxIeGg1zXi" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHmbBsQuMv1BSPEi" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHovozcJswPBuRwO" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpHrOA4XdefXBI9x_" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpM0WLS1m6DhI0LKy" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpM2jvr-wtQNb3u9W" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpM58tkqJShbDX4H3" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpM7ZCo3EOn1xKdbt" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGpMA6nHO0XFEhxVuY" : {
+      "alamat" : "g",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "2"
+    },
+    "-LwGsXbs78L5BNE3QkqF" : {
+      "alamat" : "ew",
+      "email" : "ww",
+      "gender" : "Laki-laki",
+      "nama" : "rafli",
+      "noTelp" : "12",
+      "pekerjaan" : "ww",
+      "tanggalLahir" : "12/17/19"
+    },
+    "-LwGujWqEQ4HY8RBj6lA" : {
+      "alamat" : "nganjuk",
+      "email" : "adzka@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "Dinda verani",
+      "noTelp" : "085707647239",
+      "pekerjaan" : "jutawan",
+      "tanggalLahir" : "12/12/97"
+    },
+    "-LwGzTT3L_B4t8fAnHJ1" : {
+      "alamat" : "sleman\n",
+      "email" : "q@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "Rafli",
+      "noTelp" : "12346679",
+      "pekerjaan" : "mahasiswa",
+      "tanggalLahir" : "12/18/19"
+    },
+    "-LwJ0f1RUQOxMBGF6R-H" : {
+      "alamat" : "v",
+      "email" : "show@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "g",
+      "noTelp" : "9",
+      "pekerjaan" : "h",
+      "tanggalLahir" : "12/17/19"
+    },
+    "-LwRHFiLgGZPTDQDLNiu" : {
+      "alamat" : "y",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "h",
+      "noTelp" : "2",
+      "pekerjaan" : "y",
+      "tanggalLahir" : "5"
+    },
+    "-LwT0Pfy_rADCMi-aSTr" : {
+      "alamat" : "y",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "6",
+      "pekerjaan" : "e",
+      "tanggalLahir" : "12/19/19"
+    },
+    "-LwT4zaCas40b6SOtZD7" : {
+      "alamat" : "6",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "j",
+      "noTelp" : "2",
+      "pekerjaan" : "i",
+      "tanggalLahir" : "2"
+    },
+    "-LwT5US_H-FKtPIOzJck" : {
+      "alamat" : "7",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "u",
+      "noTelp" : "2",
+      "pekerjaan" : "d",
+      "tanggalLahir" : "2"
+    },
+    "-LwT85xZDZ9ozdGNEeU_" : {
+      "alamat" : "y",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "h",
+      "noTelp" : "2",
+      "pekerjaan" : "y",
+      "tanggalLahir" : "2"
+    },
+    "-LwT862I_MDe41LHjMsi" : {
+      "alamat" : "y",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "h",
+      "noTelp" : "2",
+      "pekerjaan" : "y",
+      "tanggalLahir" : "2"
+    },
+    "-LwT8yQ5EelMZV6dwwfR" : {
+      "alamat" : "r",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "y",
+      "tanggalLahir" : "2"
+    },
+    "-LwT8ylJyV6U2N2lbHl3" : {
+      "alamat" : "r",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "y",
+      "noTelp" : "2",
+      "pekerjaan" : "y",
+      "tanggalLahir" : "2"
+    },
+    "-LwaeyThLcTzqns1_GnA" : {
+      "alamat" : "Kota Yogyakarta",
+      "email" : "adiasyadias@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "Muhammad Fawwaz Adiasya",
+      "noTelp" : "082220347343",
+      "pekerjaan" : "Mahasiswa",
+      "tanggalLahir" : "29/09/1999"
+    },
+    "-LwrI6ECBRF5XO9xE-_K" : {
+      "alamat" : "u",
+      "email" : "j",
+      "gender" : "Laki-laki",
+      "nama" : "u",
+      "noTelp" : "3",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "5"
+    },
+    "-LwsiRlkxGSJbwFJTfss" : {
+      "alamat" : "Jakal",
+      "email" : "17523150@students.uii.ac.id",
+      "gender" : "Laki-laki",
+      "nama" : "Rafli",
+      "noTelp" : "08.......",
+      "pekerjaan" : "Mahasiswa",
+      "tanggalLahir" : "12/24/19"
+    },
+    "-LwsjtsiOW9fQHXBiMYv" : {
+      "alamat" : "y",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "u",
+      "noTelp" : "6",
+      "pekerjaan" : "t",
+      "tanggalLahir" : "5"
+    },
+    "-Lwt2UyLwAwUj-ojRm8e" : {
+      "alamat" : "ww",
+      "email" : "ww",
+      "gender" : "Laki-laki",
+      "nama" : "rafli",
+      "noTelp" : "111",
+      "pekerjaan" : "ww",
+      "tanggalLahir" : "12/25/19"
+    },
+    "-LwtBgqSiyPHN3uXQAGq" : {
+      "alamat" : "r",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "3",
+      "noTelp" : "5",
+      "pekerjaan" : "r",
+      "tanggalLahir" : "25"
+    },
+    "-LwtF546pEgmLL0iAOH9" : {
+      "alamat" : "y",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "j",
+      "noTelp" : "6",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "5"
+    },
+    "-Lwv2casljrsaPue1T3i" : {
+      "alamat" : "jl monjali",
+      "email" : "Fakhri@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "Fakhri",
+      "noTelp" : "083869635380",
+      "pekerjaan" : "Mahasiswa",
+      "tanggalLahir" : "12/25/99"
+    },
+    "-LwvCWJCXbBJRtqP0g4D" : {
+      "alamat" : "n",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "j",
+      "noTelp" : "9",
+      "pekerjaan" : "r",
+      "tanggalLahir" : "6"
+    },
+    "-Lwvr5R6MMvjGXWAoibX" : {
+      "alamat" : "w",
+      "email" : "show@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "w",
+      "noTelp" : "083",
+      "pekerjaan" : "w",
+      "tanggalLahir" : "12/08/19"
+    },
+    "-Lww-iq9-MNgeBknVnfo" : {
+      "alamat" : "hm",
+      "email" : "show@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "hm",
+      "noTelp" : "080808",
+      "pekerjaan" : "hm",
+      "tanggalLahir" : "12/25/19"
+    },
+    "-LwwD9rf2oCkgZ6Z_gsI" : {
+      "alamat" : "h",
+      "email" : "j@gmail.com",
+      "gender" : "Laki-laki",
+      "nama" : "h",
+      "noTelp" : "6",
+      "pekerjaan" : "j",
+      "tanggalLahir" : "8"
+    },
+    "biodata" : [ null, {
+      "-LwEPMi168-OB7gScUiq" : {
+        "email" : "show@gmail.com",
+        "gender" : "Perempuan",
+        "nama" : "jancik",
+        "noTelp" : "08",
+        "pekerjaan" : "jancik",
+        "penyakit" : "Kamu Gastritis"
+      },
+      "-LwEQCYh2UMQtDbMCd5o" : {
+        "email" : "show@gmail.com",
+        "gender" : "Perempuan",
+        "nama" : "uy",
+        "noTelp" : "0",
+        "pekerjaan" : "y",
+        "penyakit" : "Kamu Maag",
+        "tanggalLahir" : "12/27/19"
+      },
+      "-LwEQoL30pR5sG62sJZI" : {
+        "email" : "show@gmail.com",
+        "gender" : "Perempuan",
+        "nama" : "uy",
+        "noTelp" : "0",
+        "pekerjaan" : "y",
+        "penyakit" : "Kamu Maag",
+        "tanggalLahir" : "12/27/19"
+      },
+      "-LwER42SAj2zhE2W_Bkq" : {
+        "email" : "show@gmail.com",
+        "gender" : "Perempuan",
+        "nama" : "uy",
+        "noTelp" : "08",
+        "pekerjaan" : "y",
+        "penyakit" : "Kamu Maag",
+        "tanggalLahir" : "12/27/19"
+      },
+      "-LwEXBrCc9UdVgo8esiJ" : {
+        "email" : "show@gmail.com",
+        "gender" : "Laki-laki",
+        "nama" : "show",
+        "noTelp" : "80",
+        "pekerjaan" : "show",
+        "penyakit" : "Kamu Maag",
+        "tanggalLahir" : "12/01/19"
+      }
+    } ],
+    "penyakit" : {
+      "-LwDc2Xti5AQvb6b1R-_" : "Kamu Dispepsia",
+      "-LwE6fbZYVzb60M93OXU" : "Kamu GERD / Asam Lambung",
+      "-LwE9HN3WAaCjoTxCNBx" : "Kamu Sehat",
+      "-LwE9Ii-vWhBLkEB2G_D" : "Kamu Sehat",
+      "-LwEByCduloJq7wRC6rd" : "Kamu Gastritis",
+      "-LwEDdZb4_PmXQg7ZaIr" : "Kamu Gastritis",
+      "-LwEEdhEU1ZWeH3WFOHX" : "Kamu Gastritis"
+    }
+  }
+}

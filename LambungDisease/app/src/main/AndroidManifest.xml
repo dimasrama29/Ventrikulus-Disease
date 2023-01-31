@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lambungdisease">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_lambung"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_lambung"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DataPenyakit"></activity>
+        <activity android:name=".TukakLambung" />
+        <activity android:name=".Maag" />
+        <activity android:name=".GERD" />
+        <activity android:name=".Gastritis" />
+        <activity android:name=".Dispepsia" />
+        <activity android:name=".RiwayatDiagnosa" />
+        <activity android:name=".IsiBiodata" />
+        <activity android:name=".LaporanDiagnosis" />
+        <activity android:name=".Splashscreen" />
+        <activity android:name=".pengaturan_akun" />
+        <activity android:name=".tentang" />
+        <activity android:name=".bantuan" />
+        <activity android:name=".pengaturan" />
+        <activity android:name=".infolambung" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+        <activity android:name=".Diagnosis" />
+        <activity android:name=".Dummy">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

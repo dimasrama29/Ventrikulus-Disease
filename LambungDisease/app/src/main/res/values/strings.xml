@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Ventrikulus Diseases</string>
+    <string name="btlogin">Login</string>
+    <string name="btdaftar">Daftar</string>
+    <string name="login">Login Ventrikulus Disease</string>
+    <string name="not_have_account_register">Not have account? Register</string>
+    <string name="masukkan_email_anda">Masukkan Email Anda</string>
+    <string name="masukkan_password_anda">Masukkan password Anda</string>
+    <string name="btregister">Register</string>
+    <string name="already_have_account_login">Already have account? Login</string>
+    //Latihan homepage2
+    <string name="deskripsi">Aplikasi ini merupakan sebuah pendeteksi gangguan pada lambung</string>
+    <string name="bt_info">Info Lambung</string>
+    <string name="diagnosis">Diagnosa</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="judul_art1">10 Cara Mencegah Penyakit Maag Kambuh</string>
+    <string name="judul_art2">5 Cara Mudah Menjaga Kesehatan Lambung Walaupun Berpuasa</string>
+    <string name="judul_art3">Yang Boleh dan Tidak Boleh Dimakan Ketika Sakit Lambung</string>
+    <string name="judul_art4">Makanan dan Minuman yang Harus Dihindari Pengidap Asam Lambung</string>
+    <string name="judul_art5">Macam-Macam Penyakit pada Lambung</string>
+    <string name="nama_activity2">Informasi Kesehatan Lambung</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="tentang">Tentang</string>
+    <string name="setelan">Setelan</string>
+    <string name="des_inf_lamb">Memuat Artikel - Artikel Kesehatan Lambung</string>
+    <string name="des_setelan">Setelan aplikasi</string>
+    <string name="isi_tent">Aplikasi Dikembangkan Oleh : \n
+        - Muhammad Irfan                : 17523149 \n
+        - Rafli Abdul Malik             : 17523150 \n
+        - Dimas Setyawan Ramadhansyah   : 17523152 \n
+        - Muhammad Fakhri Despaweda A P : 17523177
+    </string>
+    <string name="versi_app">V.1.0</string>
+    <string name="isi_bant1">Layanan Informasi :</string>
+    <string name="isi_bant2">Jika ada keluhan mengenai aplikasi ini harap mengubungi e-mail di bawah ini :</string>
+    <string name="cp">17523149@students.uii.ac.id\n\n
+    17523150@students.uii.ac.id\n\n 1752152@students.uii.ac.id \n\n17523177@students.uii.ac.id</string>
+    <string name="dev_year">Dev. Year 2019</string>
+    <string name="btn_ridi">Riwayat Diagnosa</string>
+    <string name="nam_kel"> Copyright ©2019 Carry Us</string>
+    <string name="nama_app">Ventrikulus Diseases</string>
+    <string name="deskripsi_tentang">Aplikasi ini dapat membantu mendiagnosa penyakit lambung.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diagnosa">Diagnosa</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="kembali">Kembali</string>
+    <string name="selesai">Selesai</string>
+
+    //DataPenyakit
+
+    <string name="penyakitgasrtitis">Gastritis</string>
+    <string name="deskripsiGastritis">Merupakan penyakit pada lambung yang terjadi akibat peradangan
+        dinding lambung. Pada dinding lambung atau lapisan mukosa lambung ini terdapat kelenjar yang
+        menghasilkan asam lambung dan enzim pencernaan yang bernama pepsin. Untuk melindungi lapisan
+        mukosa lambung dari kerusakan yang diakibatkan asam lambung, dinding lambung dilapisi oleh
+        lendir (mukus) yang tebal. Apabila mukus tersebut rusak, dinding lambung rentan mengalami
+        peradangan..</string>
+    <string name="penyakitDispepsia">Dispepsia</string>
+    <string name="deskripsiDispepsia">Dispepsia adalah suatu kondisi medis yang ditandai dengan nyeri
+        atau rasa tidak nyaman pada perut bagian atas atau dada yang biasanya timbul setelah makan.
+        Dispepsia terjadi ketika otot-otot dari organ saluran pencernaan atau sarafsaraf yang
+        mengendalikan organ-organ tersebut tidak berfungsi dengan baik.</string>
+    <string name="penyakitGerd">Gastro Eksofagus Repluksides (GERD)</string>
+    <string name="deskripsiGerd">GERD atau biasa dikenal dengan istilah Asam Lambung adalah merupakan
+        penyakit saluran pencernaan yang bersifat kronis. Penyakit ini terjadi ketika asam lambung
+        atau terkadang isi lambung naik kembali ke esofagus (refluks) sehingga mengakibatkan mual
+        bahkan muntah. Akibat naiknya asam lambung akan mengiritasi dan membakar esofagus atau
+        kerongkongan yang dapat menimbulkan rasa panas pada dada (heartburn) hingga ke tenggorokan.</string>
+    <string name="penyakitMaag">Maag</string>
+    <string name="deskripsiMaag">Maag adalah rasa nyeri pada bagian lambung perut manusia. Penyakit
+        maag terjadi ketika lapisan lendir tebal yang melindungi perut dari cairan pencernaan berkurang
+        jumlahnya. Akibatnya, asam lambung mencerna lapisan jaringan organ perut yang menjadi penyebab maag.
+    </string>
+    <string name="penyakitTukakLambung">Tukak Lambung</string>
+    <string name="deskripsiTukak">Tukak lambung adalah kondisi peradangan akibat luka pada dinding
+        lambung. Terkadang gangguan pencernaan ini juga bisa terjadi pada duodenum
+        (bagian pertama usus halus), dan esophagus atau batang tenggorokan yang posisinya terdekat
+        lambung. Tukak terjadi ketika dinding lambung dan usus halus terkikis lalu terluka, sehingga
+        mengenai jaringan yang lebih dalam. Tanpa perawatan yang tepat, tukak pada lambung bisa
+        menyebabkan nyeri yang berkepanjangan atau bahkan kerusakan organ cerna.</string>
+    <string name="solusiGastritis">\n\n<b>Solusi :</b>
+        \n\n - Mengganti Kebiasaan Makan\n
+-	Menghindari minuman beralkohol\n
+-	Hindari makanan pedas dan asam dan mengandung gas\n
+-	Kurangi atau hindari konsumsi kopi, teh, dan minuman bersoda\n
+-	Usahakan jadwal makan teratur dan jangan sampai terlambat\n
+-	Kelola stres dengan baik melalui olahraga\n
+-	Metode relaksasi atau kegiatan lain yang disukai
+</string>
+
+    <string name="solusiDispepsia"><b>Solusi : </b>
+    \n\n -Membatasi konsumsi makanan yang dapat menyebabkan terjadinya dispepsia.\n
+-	Makan dalam porsi yang kecil, tetapi sering dan dianjurkan untuk makan 5-6 kali sehari.\n
+-	Membatasi konsumsi kafein dan alkohol.\n
+-	Menghindari penggunaan atau konsumsi anti nyeri seperti aspirin dan ibuprofen. Gunakan anti nyeri lain yang lebih aman bagi lambung seperti parasetamol.\n
+-	Mengontrol stres dan rasa cemas
+    </string>
+
+    <string name="solusiGerd">\n\n<b>Solusi :</b>
+    \n\n -Jaga berat badan. Berat badan berlebih atau obesitas adalah salah satu faktor risiko utama dari GERD.\n
+-	Hindari makanan yang bisa memicu kenaikan asam lambung, seperti makanan berlemak, makanan asin, makanan pedas, makanan asam, mint, coklat, kopi, dan minuman bersoda.\n
+-	Jangan langsung tiduran setelah makan. Menurut dr. Ari, biasakan sudah makan setidaknya 2 jam sebelum Anda mulai tidur malam\n
+-	Kurangi kebiasaan minum kopi berlebihan\n
+-	Berhenti merokok.\n
+-	Menghindari stres.
+</string>
+
+    <string name="solusiMaag">\n\n<b>Solusi :</b>
+    \n\n- Perubahan menu makanan\n
+- Hindari mengonsumsi makanan pedas dan makanan yang mengandung banyak asam, seperti tomat dan jeruk. Hindari juga minuman bersoda, kafein, dan minuman beralkohol, serta makanan pemicu sakit maag seperti cokelat dan mint.\n
+-	Penerapan pola makan yang lebih baik\n
+Anda disarankan mengonsumsi makanan dalam porsi kecil namun lebih Makanlah dengan pelan-pelan. Biasakan untuk tidak langsung berbaring setelah makan, tunggu setidaknya 2 hingga 3 jam setelah makan.\n
+-	Berhenti merokok\n
+-	Tidak mengonsumsi camilan ketika sudah larut malam.\n
+-	Rajin berolahraga dan mengurangi berat badan jika diperlukan. Namun ingat, jangan berolahraga sesaat setelah makan. Setidaknya tunggu satu jam setelah makan.\n
+-	Menghindari dan mengelola stres.\n
+-	Tidak mengenakan pakaian ketat, karena dapat menekan lambung dan membuat makanan naik ke kerongkongan dan memicu penyakit asam lambung.\n
+-	Hindari mengonsumsi obat-obatan yang bisa menyebabkan sakit maag, seperti obat antiinflamasi non-steroid (OAINS).
+</string>
+    <string name="solusiTukak"><b>SolusiTukak : </b>
+    \n\n-	Memperbanyak konsumsi sayur, biji-bijian, dan buah yang mengandung vitamin A dan C.\n
+-	Mengonsumsi makanan yang mengandung probiotik, seperti yoghurt.\n
+-	Menghindari konsumsi susu.\n
+-	Mengelola stres dengan baik.\n
+-	Beristirahat yang cukup\n
+-	Membatasi konsumsi alkohol.\n
+-	Berhenti merokok.
+    </string>
+</resources>

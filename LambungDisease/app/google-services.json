@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910439546066",
+    "firebase_url": "https://lambungdisease.firebaseio.com",
+    "project_id": "lambungdisease",
+    "storage_bucket": "lambungdisease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910439546066:android:0106a98df89f8ab187010b",
+        "android_client_info": {
+          "package_name": "com.example.lambungdisease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910439546066-01bprnfte5jsgcdh6haj69on7tie220v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lambungdisease",
+            "certificate_hash": "af689b0359ad2d4bf2b35608bea5b56a42e0f324"
+          }
+        },
+        {
+          "client_id": "910439546066-4hs3t1fmqrio01vvk776a2ivqhhfgc5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRPsnoUwMDbKQNBvqkE3dbcOckbSm-lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910439546066-4hs3t1fmqrio01vvk776a2ivqhhfgc5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/bgwarna"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:textColor="@android:color/white"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Isi Biodata"/>
+
+            <EditText
+                android:textColor="@android:color/white"
+                android:textSize="25sp"
+                android:id="@+id/id_nama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nama"
+                android:inputType="text"/>
+
+
+            <EditText
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/white"
+                android:textSize="25sp"
+                android:id="@+id/id_tanggalLahir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Tanggal Lahir"
+                android:inputType="date"/>
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/white"
+                android:textSize="25sp"
+                android:id="@+id/genderlabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gender : " />
+
+            <RadioGroup
+                android:id="@+id/rg_gender"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:textSize="20sp"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/rb_male"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Laki-laki" />
+
+                <RadioButton
+                    android:textSize="20sp"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/rb_female"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Perempuan"/>
+
+            </RadioGroup>
+
+            <EditText
+                android:textColor="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:textSize="25sp"
+                android:id="@+id/id_alamat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Alamat"
+                android:inputType="textMultiLine"/>
+
+            <EditText
+                android:textColor="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:textSize="25sp"
+                android:id="@+id/id_nomorTelp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nomor Telepon"
+                android:inputType="phone"/>
+
+            <EditText
+                android:textColor="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:textSize="25sp"
+                android:id="@+id/id_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="E-Mail"
+                android:inputType="textEmailAddress"/>
+
+            <EditText
+                android:textColor="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:textSize="25sp"
+                android:id="@+id/id_pekerjaan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Pekerjaan"
+                android:inputType="text"/>
+
+            <Button
+                android:layout_marginTop="25dp"
+                android:textColor="@color/colorWhite"
+                android:background="@color/colorPrimary"
+                android:id="@+id/bt_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="submit1"
+                android:text="Submit"/>
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</RelativeLayout>

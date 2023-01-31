@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/linear1"
+    android:layout_height="match_parent"
+    tools:context=".infolambung">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="false">
+
+        <LinearLayout
+            android:background="#2354B3"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp">
+
+                    <ImageView
+                        android:src="@drawable/health"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:text="@string/nama_activity2"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/white"
+                        android:textSize="25sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:text="@string/des_inf_lamb"
+                        android:textColor="@android:color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="16sp"
+                        android:layout_marginTop="5dp"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="847dp"
+                    android:background="#4A94A7"
+                    android:orientation="vertical">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_marginTop="15dp"
+                        android:id="@+id/judul_art1"
+                        android:layout_gravity="center"
+                        app:cardBackgroundColor="#4A94A7"
+                        android:layout_width="380dp"
+                        android:layout_height="150dp"
+                        android:gravity="center">
+
+                        <LinearLayout
+                            android:layout_width="380dp"
+                            android:layout_gravity="center"
+                            android:layout_height="150dp"
+                            android:background="@color/colorPrimary"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="370dp"
+                                android:layout_height="100dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@drawable/maag1" />
+
+                            <TextView
+                                android:layout_width="370dp"
+                                android:layout_height="40dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@color/colorPrimary"
+                                android:text="@string/judul_art1"
+                                android:textColor="@android:color/white"
+                                android:textSize="16sp" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_marginTop="15dp"
+                        android:layout_gravity="center"
+                        app:cardBackgroundColor="#4A94A7"
+                        android:layout_width="380dp"
+                        android:layout_height="150dp"
+                        android:gravity="center"
+                        android:id="@+id/judul_art2">
+
+                        <LinearLayout
+                            android:layout_width="380dp"
+                            android:layout_height="150dp"
+                            android:background="@color/colorPrimary"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="370dp"
+                                android:layout_height="100dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@drawable/oat" />
+
+                            <TextView
+                                android:layout_width="370dp"
+                                android:layout_height="40dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@color/colorPrimary"
+                                android:text="@string/judul_art2"
+                                android:textColor="@android:color/white"
+                                android:textSize="16sp" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_marginTop="15dp"
+                        android:layout_gravity="center"
+                        app:cardBackgroundColor="#4A94A7"
+                        android:layout_width="380dp"
+                        android:layout_height="150dp"
+                        android:gravity="center"
+                        android:id="@+id/judul_art3">
+
+                        <LinearLayout
+                            android:layout_width="380dp"
+                            android:layout_height="150dp"
+                            android:background="@color/colorPrimary"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="370dp"
+                                android:layout_height="100dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@drawable/biji" />
+
+                            <TextView
+                                android:layout_width="370dp"
+                                android:layout_height="40dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@color/colorPrimary"
+                                android:text="@string/judul_art3"
+                                android:textColor="@android:color/white"
+                                android:textSize="16sp" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_marginTop="15dp"
+                        android:layout_gravity="center"
+                        app:cardBackgroundColor="#4A94A7"
+                        android:layout_width="380dp"
+                        android:layout_height="150dp"
+                        android:gravity="center"
+                        android:id="@+id/judul_art4">
+
+                        <LinearLayout
+                            android:layout_width="380dp"
+                            android:layout_height="150dp"
+                            android:background="@color/colorPrimary"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="370dp"
+                                android:layout_height="100dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@drawable/pantangan" />
+
+                            <TextView
+                                android:layout_width="370dp"
+                                android:layout_height="40dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@color/colorPrimary"
+                                android:text="@string/judul_art4"
+                                android:textColor="@android:color/white"
+                                android:textSize="16sp" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_marginTop="15dp"
+                        android:layout_gravity="center"
+                        app:cardBackgroundColor="#4A94A7"
+                        android:layout_width="380dp"
+                        android:layout_height="150dp"
+                        android:gravity="center"
+                        android:id="@+id/judul_art5">
+
+                        <LinearLayout
+                            android:layout_width="380dp"
+                            android:layout_height="150dp"
+                            android:background="@color/colorPrimary"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="370dp"
+                                android:layout_height="100dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@drawable/penyakit" />
+
+                            <TextView
+                                android:layout_width="370dp"
+                                android:layout_height="40dp"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:background="@color/colorPrimary"
+                                android:text="@string/judul_art5"
+                                android:textColor="@android:color/white"
+                                android:textSize="16sp" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
